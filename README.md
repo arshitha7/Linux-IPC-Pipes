@@ -105,4 +105,4 @@ exit(EXIT_SUCCESS);
 ![image](https://github.com/ANU23000217/Linux-IPC-Pipes/assets/139117108/71516266-2933-4f83-9f4e-0cbe76138471)
 
 # RESULT:
-The program is executed successfully.**
+The program is executed successfully.
